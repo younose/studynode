@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mahmud Yunus",
+	"description": "A project that does something awesome",
 	"engines": {
 		"node": "14.x"
 	},
