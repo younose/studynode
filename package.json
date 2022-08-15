@@ -3,7 +3,8 @@
 	"author": "Mahmud Yunus",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "exercise node", "mahmud yunus"],
-	"license": "MIT",		
+	"license": "MIT",	
+	"version": "1.2.0",	
 	"engines": {
 		"node": "14.x"
 	},
